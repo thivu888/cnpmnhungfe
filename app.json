@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "client-esp8266",
+    "slug": "client-esp8266",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "client-esp8266"
+}
